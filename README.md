@@ -35,6 +35,27 @@
 - 105.3 - Sonar FM
 - 106.3 - Armonía
 
-## Preferidas
+## Memoria
 
-
+1. 88.1 - Imagina
+1. 88.5 - Concierto
+1. 88.9 - Futuro
+1. 89.7 - Duna
+1. 91.7 - ADN
+1. 92.1 - Agricultura
+1. 92.5 - Activa
+1. 92.9 - Clave
+1. 93.3 - Cooperativa
+1. 93.7 - Universo
+1. 94.1 - Rock & Pop
+1. 94.5 - Usach
+1. 95.9 - Tiempo
+1. 97.7 - Beethoven
+1. 98.1 - Carabineros
+1. 99.7 - Bío Bío
+1. 100.1 - Infinita
+1. 100.9 - Play FM
+1. 102.1 - Oasis
+1. 102.5 - U. Chile
+1. 103.3 - Tele13
+1. 105.3 - Sonar FM
